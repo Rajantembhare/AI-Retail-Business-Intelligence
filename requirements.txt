@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/main
 pandas
 numpy
 matplotlib
@@ -14,3 +11,4 @@ pymysql
 openpyxl
 jupyter
 joblib
+  tf
